@@ -1,0 +1,10 @@
+promotion_code,campaign,discount_pct,start_date,end_date,duration_days
+PROMO001,Weekend Saver,10,2024-02-01,2024-02-18,18
+PROMO002,Summer Refresh,15,2024-04-01,2024-04-21,21
+PROMO003,Festival Specials,20,2024-10-01,2024-10-20,20
+PROMO004,Year-End Deals,12,2024-12-10,2024-12-31,22
+PROMO005,New Year Offers,10,2025-01-01,2025-01-14,14
+PROMO006,Summer Refresh,15,2025-04-01,2025-04-21,21
+PROMO007,Mid-Year Mega Sale,18,2025-06-10,2025-06-30,21
+PROMO008,Festival Specials,20,2025-10-01,2025-10-20,20
+PROMO009,Year-End Deals,12,2025-12-10,2025-12-31,22

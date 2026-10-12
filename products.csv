@@ -1,0 +1,121 @@
+product_id,category,brand,price_band,unit_price
+P001,Household,NorthStar,Premium,451.7
+P002,Beverages,FreshCart Select,Budget,36.04
+P003,Household,GoldenField,Mid-range,256.81
+P004,Snacks,GoldenField,Mid-range,296.88
+P005,Beverages,UrbanHarvest,Mid-range,220.62
+P006,Dairy,UrbanHarvest,Budget,65.48
+P007,Household,DailyFarm,Mid-range,267.83
+P008,Snacks,NorthStar,Mid-range,272.8
+P009,Household,GoldenField,Budget,34.36
+P010,Household,PureLife,Budget,79.65
+P011,Dairy,NorthStar,Budget,86.04
+P012,Dairy,PureLife,Budget,88.06
+P013,Personal care ,FreshCart Select,Budget,31.02
+P014,Fresh Produce,GoldenField,Mid-range,215.03
+P015,Dairy,NorthStar,Mid-range,90.81
+P016,Dairy,SunVale,Mid-range,185.05
+P017,Beverages,NorthStar,Mid-range,168.06
+P018,Dairy,NorthStar,Mid-range,90.32
+P019,Fresh Produce,PureLife,Premium,840.82
+P020,Personal Care,HomeEase,Mid-range,195.49
+P021,Personal Care,FreshCart Select,Mid-range,82.85
+P022,Snacks,GoldenField,Budget,33.42
+P023,Beverages,DailyFarm,Budget,29.85
+P024,Fresh Produce,FreshCart Select,Mid-range,279.36
+P025,Dairy,DailyFarm,Budget,93.48
+P026,Beverages,SunVale,Mid-range,135.76
+P027,Household,GoldenField,Premium,672.86
+P028,Fresh Produce,DailyFarm,Mid-range,293.47
+P029,Snacks,HomeEase,Budget,29.53
+P030,Snacks,UrbanHarvest,Premium,627.17
+P031,Personal Care,UrbanHarvest,Budget,20.86
+P032,Fresh Produce,UrbanHarvest,Premium,268.08
+P033,Personal Care,NorthStar,Premium,440.74
+P034,Dairy,GoldenField,Premium,659.97
+P035,Snacks,FreshCart Select,Budget,78.4
+P036,Beverages,HomeEase,Budget,77.92
+P037,Household,SunVale,Budget,86.78
+P038,Personal Care,UrbanHarvest,Mid-range,291.35
+P039,Personal Care,DailyFarm,Premium,456.53
+P040,Beverages,SunVale,Budget,40.04
+P041,Dairy,DailyFarm,Mid-range,266.86
+P042,Dairy,HomeEase,Budget,61.3
+P043,Personal Care,HomeEase,Mid-range,125.22
+P044,Beverages,HomeEase,Mid-range,268.47
+P045,Household,HomeEase,Budget,67.92
+P046,Fresh Produce,NorthStar,Mid-range,160.54
+P047,Personal Care,SunVale,Mid-range,101.35
+P048,Dairy,GoldenField,Mid-range,116.24
+P049,Beverages,UrbanHarvest,Budget,98.9
+P050,Beverages,HomeEase,Mid-range,236.34
+P051,Fresh Produce,PureLife,Budget,39.46
+P052,Dairy,NorthStar,Mid-range,294.84
+P053,Fresh Produce,FreshCart Select,Mid-range,278.02
+P054,Snacks,HomeEase,Mid-range,80.83
+P055,Fresh Produce,PureLife,Budget,69.35
+P056,Dairy,DailyFarm,Mid-range,243.17
+P057,Beverage,NorthStar,Mid-range,194.71
+P058,Personal Care,FreshCart Select,Mid-range,157.23
+P059,Personal Care,UrbanHarvest,Budget,97.84
+P060,Snacks,SunVale,Mid-range,111.34
+P061,Beverages,UrbanHarvest,Budget,61.47
+P062,Snacks,PureLife,Mid-range,288.19
+P063,Beverages,UrbanHarvest,Budget,32.31
+P064,Personal Care,UrbanHarvest,Budget,45.74
+P065,Snacks,PureLife,Premium,352.54
+P066,Personal Care,SunVale,Budget,96.8
+P067,Snacks,FreshCart Select,Budget,76.48
+P068,Personal Care,FreshCart Select,Budget,86.11
+P069,Snacks,SunVale,Premium,572.05
+P070,Personal Care,FreshCart Select,Premium,292.75
+P071,Fresh Produce,HomeEase,Mid-range,89.36
+P072,Fresh Produce,FreshCart Select,Mid-range,130.43
+P073,Fresh Produce,GoldenField,Mid-range,267.06
+P074,Household,UrbanHarvest,Mid-range,140.34
+P075,Snacks,SunVale,Budget,79.3
+P076,Household,GoldenField,Budget,33.87
+P077,Fresh Produce,PureLife,Premium,671.92
+P078,Snack,DailyFarm,Budget,68.36
+P079,BEVERAGES,UrbanHarvest,Budget,25.12
+P080,Personal Care,PureLife,Budget,46.36
+P081,Beverages,HomeEase,Mid-range,291.66
+P082,Fresh Produce,SunVale,Mid-range,123.48
+P083,Fresh Produce,HomeEase,Budget,40.04
+P084,Household,PureLife,Budget,94.55
+P085,Snacks,GoldenField,Mid-range,294.68
+P086,Beverages,NorthStar,Mid-range,270.51
+P087,snacks ,FreshCart Select,Budget,49.47
+P088,Fresh Produce,FreshCart Select,Mid-range,172.33
+P089,Beverage,SunVale,Premium,470.87
+P090,Household,DailyFarm,Budget,34.93
+P091,Fresh Produce,SunVale,Mid-range,177.0
+P092,Personal Care,FreshCart Select,Budget,59.85
+P093,Fresh Produce,HomeEase,Premium,344.24
+P094,Fresh Produce,DailyFarm,Premium,357.87
+P095,Dairy,DailyFarm,Premium,787.17
+P096,Fresh Produce,SunVale,Budget,58.91
+P097,HOUSEHOLD,GoldenField,Budget,40.53
+P098,Personal Care,SunVale,Mid-range,89.1
+P099,Household,FreshCart Select,Budget,87.44
+P100,Snacks,SunVale,Mid-range,94.33
+P101,Personal Care,GoldenField,Mid-range,208.57
+P102,Snacks,SunVale,Budget,70.64
+P103,Personal Care,FreshCart Select,Budget,45.15
+P104,Personal Care,UrbanHarvest,Budget,69.15
+P105,Snacks,HomeEase,Budget,48.67
+P106,Beverages,GoldenField,Budget,87.36
+P107,Dairy,UrbanHarvest,Budget,94.66
+P108,Personal Care,PureLife,Budget,64.63
+P109,Personal Care,UrbanHarvest,Mid-range,271.76
+P110,Dairy,GoldenField,Budget,99.79
+P111,Household,HomeEase,Budget,87.01
+P112,Dairy ,DailyFarm,Mid-range,116.37
+P113,Dairy,DailyFarm,Budget,50.43
+P114,Personal Care,PureLife,Mid-range,178.88
+P115,Beverages,PureLife,Mid-range,194.05
+P116,Dairy,GoldenField,Budget,87.77
+P117,Fresh Produce,HomeEase,Budget,23.16
+P118,Snacks,DailyFarm,Premium,838.15
+P119,Household,UrbanHarvest,Mid-range,148.68
+P120,Dairy,UrbanHarvest,Budget,69.17
